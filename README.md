@@ -180,15 +180,5 @@ This notebook queries DGIdb (Drug–Gene Interaction Database). If you publish r
 - The notebook itself does not specify a license. If you plan to reuse or distribute this notebook, add a license (e.g., MIT, Apache 2.0) to the repository and make sure any redistributed DGIdb data complies with DGIdb's terms.
 - Attribution: credit the original notebook author/repository owner when reusing or publishing derivative work.
 
-## Contact / author
 
-- Repository: Bhuvana214/ra_dgidb_query.ipynb  
-- If you need clarifications about the notebook's implementation details (e.g., exact filenames used for outputs), open the notebook in Jupyter and examine the cells that perform `requests` and `pandas` operations — the code cells show the precise variable names and filenames used for saving.
 
----
-
-If you'd like, I can:
-- produce a cleaned README.md commit-ready file,
-- extract the exact parsing & saving code from the notebook and add usage examples with concrete filenames,
-- or generate a small standalone Python script that performs the same DGIdb query and writes results to CSV/Excel.
-Tell me which of those you'd like next.
